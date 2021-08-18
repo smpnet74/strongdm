@@ -1,0 +1,6 @@
+name: pulumi-ecsgwstrongdm
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Pulumi to create NLB to a Fargate task for SStrongDM
